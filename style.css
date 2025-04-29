@@ -1,6 +1,7 @@
-.xblock p {
-    /* Your styling here */
-    color: blue; /* Example */
-    font-size: 18px; /* Example */
-    line-height: 1.6; /* Example */
-}
+.xblock-student_view img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    background-color: #ff0000; 
+  }
